@@ -13,7 +13,8 @@ The users like the administrator of the app Airbnb clone has the posibility of t
    ![alt text](https://github.com/ndeyeamy/AirBnB_clone/blob/150372e922fdd6f9b7d0552f7174e7f3b8831a41/65f4a1dd9c51265f49d0.png)
 
    
-Requirements
+## Requirements
+
 Python Scripts
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -27,7 +28,9 @@ All your modules should have a documentation (python3 -c 'print(__import__("my_m
 All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
-Python Unit Tests
+
+## Python Unit Tests
+
 Allowed editors: vi, vim, emacs
 All your files should end with a new line
 All your test files should be inside a folder tests
@@ -46,9 +49,6 @@ We strongly encourage you to work together on test cases, so that you don’t mi
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-More Info
-Execution
-Your shell should work like this in interactive mode:
 ```
 How To run the command interpreter:
 ```

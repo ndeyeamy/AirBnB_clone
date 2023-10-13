@@ -49,7 +49,9 @@ There should be one project repository per group. If you clone/fork/whatever a p
 More Info
 Execution
 Your shell should work like this in interactive mode:
-
+```
+How To run the command interpreter:
+```
 $ ./console.py
 (hbnb) help
 
@@ -82,3 +84,6 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
+## AUTHORS
+* **Ndeye Amy Fall** <[ndeyeamy](https://github.com/ndeyeamy)>
+
